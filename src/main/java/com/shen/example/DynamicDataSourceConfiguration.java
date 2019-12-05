@@ -1,4 +1,4 @@
-package com.shen.example1;
+package com.shen.example;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;

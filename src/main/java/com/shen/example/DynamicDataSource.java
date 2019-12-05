@@ -1,4 +1,4 @@
-package com.shen.example1;
+package com.shen.example;
 
 import javax.sql.DataSource;
 import java.io.PrintWriter;

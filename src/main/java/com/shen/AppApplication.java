@@ -1,6 +1,6 @@
 package com.shen;
 
-import com.shen.example1.DataSourceRefresher;
+import com.shen.example.DataSourceRefresher;
 import com.shen.repository.UserRepository;
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.boot.CommandLineRunner;
